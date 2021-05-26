@@ -20,7 +20,10 @@ Eg:- XML
 3. SQL starter quiz - https://www.jetpunk.com/user-quizzes/1336712/sql-starter-quiz
 
 
+# SQL Query
 
+![image](https://user-images.githubusercontent.com/33391148/119598473-a4420680-be00-11eb-97e9-d1984a1ecd4d.png)
+ 
 
 
 
