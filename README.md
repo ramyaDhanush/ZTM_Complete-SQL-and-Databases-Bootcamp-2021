@@ -25,6 +25,10 @@ Eg:- XML
 ![image](https://user-images.githubusercontent.com/33391148/119598473-a4420680-be00-11eb-97e9-d1984a1ecd4d.png)
  
 
+![image](https://user-images.githubusercontent.com/33391148/119598529-bfad1180-be00-11eb-9827-23858f51838f.png)
+
+
+**SELECT** - Retreieve Data
 
 
 
